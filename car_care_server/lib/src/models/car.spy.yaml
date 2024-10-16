@@ -1,0 +1,7 @@
+class: Car
+table: car
+fields:
+  name: String
+  plate: String
+  series: String
+
